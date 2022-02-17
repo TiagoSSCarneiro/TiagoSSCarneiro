@@ -1,3 +1,6 @@
+<h3>Sobre mim</h3>
+  Desenvolvedor Front-End, com experiência em HTML, CSS, JavaScript e React. Criando sites responsivos sempre com atenção para escrever um código limpo e de fácil manutenção.
+  Entusiasta de ciclismo🚵‍♂️ com os amigos e contato com a natureza. Quando bate o tedio gosto de jogar 🎮 ou ver um filme em família 🥰.
 <div>
   <a href="https://github.com/TiagoSSCarneiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoSSCarneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
