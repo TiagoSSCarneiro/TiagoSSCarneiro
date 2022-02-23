@@ -1,4 +1,4 @@
-## Olá meu nome é Tiago Carneiro
+## Olá, meu nome é Tiago Carneiro 🔋
   > Desenvolvedor Front-End, com experiência em HTML, CSS, JavaScript e React. Criando sites responsivos sempre com atenção para escrever um código limpo e de fácil manutenção.
   Entusiasta de ciclismo🚵‍♂️ com os amigos e contato com a natureza. Quando bate o tedio gosto de jogar 🎮 ou ver um filme em família 🥰.
 <div>
